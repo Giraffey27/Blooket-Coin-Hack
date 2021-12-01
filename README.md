@@ -1,6 +1,8 @@
-# Blooket-Coin-Hack
-This hack will give you 500 coins and 300 XP
-Type "Javascript:" and then copy the raw code, and paste it after Javascript: 
+//Description
+This hack will give you 500 coins and 300 XP.
 
+//How to execute
+Open Inspect element(ctrl+shift+i) and go to the console tab.
+Copy the raw code and paste it into the console tab, reload your page and the coins will be added
 
-IMPORTANT:DO NOT PUT A SPACE BETWEEN "Javascript:" and then the code.
+..........You can only do this once a day.......
